@@ -1,0 +1,33 @@
+// colors
+$black: #333;
+$lightBlack: #666;
+$darkGrey: #999;
+$grey: #eee;
+$yellow: #ffe600;
+$blue: #3483fa;
+$white: #fff;
+// typography
+$fz-size-xs: 12px;
+$fz-size-sm: 16px;
+$fz-size-md: 18px;
+$fz-size-lg: 24px;
+$fz-size-xl: 46px;
+$border-radius: 4px;
+$space-sm: 16px;
+$space-lg: 32px;
+.btn-primary {
+    width: 100%;
+    background-color: $blue;
+    border-color: transparent;
+    &:hover {
+        background-color: darken($blue, 10);
+        border-color: transparent;
+    }
+    &:active,
+    &:focus,
+    &:active:focus {
+        box-shadow: none;
+        border-color: transparent;
+        background-color: darken($blue, 20);
+    }
+}

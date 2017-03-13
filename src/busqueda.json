@@ -1,0 +1,78 @@
+{
+  "author": {
+    "name": "Gabriel",
+    "lastname": "Fiocchi"
+  },
+  "categories": [
+    "Celulares y Teléfonos",
+    "Celulares y Smartphones",
+    "iPhone"
+  ],
+  "items": [
+    {
+      "id": "MLA646564616",
+      "title": "Iphone 7 32gb Nuevos Libres En Caja Sellada Originales!",
+      "price": {
+        "currency": "ARS",
+        "amount": 17900,
+        "decimals": 0
+      },
+      "pricture": "http://mla-s2-p.mlstatic.com/775315-MLA25224867121_122016-O.jpg",
+      "condition": "new",
+      "free_shipping": true,
+      "location": "Capital Federal"
+    },
+    {
+      "id": "MLA636670390",
+      "title": "Iphone 7 Plus 32gb  Libre De Fabrica Con Garantia",
+      "price": {
+        "currency": "ARS",
+        "amount": 21899,
+        "decimals": 99
+      },
+      "pricture": "http://mla-s1-p.mlstatic.com/521915-MLA25345308029_022017-O.jpg",
+      "condition": "new",
+      "free_shipping": false,
+      "location": "Capital Federal"
+    },
+    {
+      "id": "MLA636281046",
+      "title": "Apple Iphone 7 32gb 4.7' Retina 12mp 4k Sellado Stock",
+      "price": {
+        "currency": "ARS",
+        "amount": 17999,
+        "decimals": 99
+      },
+      "pricture": "http://mla-s1-p.mlstatic.com/196705-MLA25065770340_092016-O.jpg",
+      "condition": "new",
+      "free_shipping": false,
+      "location": "Capital Federal"
+    },
+    {
+      "id": "MLA650382093",
+      "title": "Iphone 7 De 32 Gb, Rose, Gold, Black, Silver Garantia Apple",
+      "price": {
+        "currency": "ARS",
+        "amount": 18700,
+        "decimals": 0
+      },
+      "pricture": "http://mla-s2-p.mlstatic.com/177615-MLA25287359132_012017-O.jpg",
+      "condition": "new",
+      "free_shipping": false,
+      "location": "Capital Federal"
+    },
+    {
+      "id": "MLA638045793",
+      "title": "Iphone 7 Plus 128gb Sellado Stock Entrega Inmediata",
+      "price": {
+        "currency": "ARS",
+        "amount": 23979,
+        "decimals": 0
+      },
+      "pricture": "http://mla-s2-p.mlstatic.com/537905-MLA25091882928_102016-O.jpg",
+      "condition": "new",
+      "free_shipping": true,
+      "location": "Capital Federal"
+    }
+  ]
+}

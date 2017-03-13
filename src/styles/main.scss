@@ -1,0 +1,24 @@
+@import 'variables.scss';
+// @import '../../node_modules/react-skeleton-css/styles/skeleton.2.0.4.css';
+
+// @import '../../node_modules/react-skeleton-css/styles/normalize.3.0.2.css';
+//grid
+// @import 'mixins/clearfix.scss';
+// @import 'mixins/grid-framework.scss';
+// @import 'mixins/grid.scss';
+// @import 'grid.scss';
+
+//partials
+@import 'partials/details.scss';
+@import 'partials/item_detail.scss';
+@import 'partials/search.scss';
+@import 'sprites.scss';
+@import 'typography.scss';
+
+
+body {
+  background: $grey;
+  margin: 0;
+  padding-bottom: 50px;
+}
+textarea, input, button { outline: none; }
